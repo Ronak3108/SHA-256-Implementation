@@ -1,1 +1,2 @@
-
+No external dependencies required.
+It is built entirely using Python standard library (like hashlib, argparse, unittest). 😇😇
