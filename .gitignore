@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Vivado generated files
+**/.Xil/
+**/*.cache/
+**/*.hw/
+**/*.ip_user_files/
+**/*.sim/
+**/*.runs/
+**/*.gen/
+
+# Logs and backups
+*.jou
+*.log
+*.str
+*.backup
+*.backup.*
